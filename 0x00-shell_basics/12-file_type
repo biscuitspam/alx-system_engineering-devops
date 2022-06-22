@@ -1,2 +1,2 @@
 #!/bin/bash
-type which iamafile
+type -a which iamafile

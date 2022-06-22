@@ -1,2 +1,2 @@
 #!/bin/bash
-type -afptP iamafile
+type  iamafile
